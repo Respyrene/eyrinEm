@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @eyrinEm
 - 👀 I’m interested in all kinds of Machine Learning and NLPs but I'm not limited to the field
-- 🌱 I’m currently dabbling with Python, C++, and Jav
+- 🌱 I’m currently dabbling with Python, C++, and Java
 - 📫 You can reach me through the email in my GitHub profile
 
 <!---
